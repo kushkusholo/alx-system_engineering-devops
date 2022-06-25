@@ -1,2 +1,3 @@
 #!/bin/bash
-learning commands at ALX
+the absolute path name of the current working directory.
+
