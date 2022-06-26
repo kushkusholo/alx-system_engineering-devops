@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a script that changes the working directory to the previous one.
+even ones with names beginning with a period character, which are normally hidden
