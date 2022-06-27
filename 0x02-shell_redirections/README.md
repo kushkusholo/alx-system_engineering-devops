@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that displays a confused smiley
+Write a script that displays the third line of the file iacta
